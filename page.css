@@ -14,7 +14,7 @@ se for um smartphone em modo verticak*/
   }
   /*Cabeçalho do site--*/
   header{
-    position: relative;
+    position: fixed;
     left: -8px;
     width: 104.4%;
     height: 60px;
