@@ -75,4 +75,9 @@ se for um smartphone em modo verticak*/
   .saiba0{
     color: red;
   }
+
+  .hr{
+    width: 300px;
+    top: 30px;
+  }
 }
