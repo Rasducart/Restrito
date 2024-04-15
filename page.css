@@ -54,7 +54,8 @@ se for um smartphone em modo verticak*/
   
   .la0{
     top: 60px;
-    width: 100px;
+    width: 350px;
+    border: 1px solid red;
   }
   
   .mg0{
